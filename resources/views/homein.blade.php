@@ -263,6 +263,6 @@
   <div>
     <h1 class=" mt-8 border w-auto h-80 bg-slate-800 text-center text-4xl">Fotter </h1>
  </div>
-
+ https://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@github.com/faisalulazam/e-commerce-tailwind.git
 </body>
 </html>
